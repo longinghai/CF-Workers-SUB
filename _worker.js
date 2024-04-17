@@ -10,9 +10,13 @@ let SUBUpdateTime = 6; //自定义订阅更新时间，单位小时
 
 //节点链接 + 订阅链接
 let MainData = `
-vless://b7a392e2-4ef0-4496-90bc-1c37bb234904@cf.090227.xyz:443?encryption=none&security=tls&sni=edgetunnel-2z2.pages.dev&fp=random&type=ws&host=edgetunnel-2z2.pages.dev&path=%2F%3Fed%3D2048#%E5%8A%A0%E5%85%A5%E6%88%91%E7%9A%84%E9%A2%91%E9%81%93t.me%2FCMLiussss%E8%A7%A3%E9%94%81%E6%9B%B4%E5%A4%9A%E4%BC%98%E9%80%89%E8%8A%82%E7%82%B9
-https://sub.xf.free.hr/auto
-https://hy2sub.pages.dev
+https://cf.longming.dynv6.net/04b38f29-38dc-4b04-82ad-520522df36f8
+hy2://dongtaiwang.com@62.210.103.0:22483/?insecure=1&sni=www.bing.com#%E6%B3%95%E5%9B%BD%F0%9F%87%AB%F0%9F%87%B7
+hy2://dongtaiwang.com@51.159.77.153:33390/?insecure=1&sni=bing.com#%E6%B3%95%E5%9B%BD%F0%9F%87%AB%F0%9F%87%B7
+hy2://dongtaiwang.com@74.63.233.74:33445/?insecure=1&sni=www.bing.com#%E7%BE
+hy2://dongtaiwang.com@104.192.224.140:40391/?insecure=1&sni=www.bing.com#%E7%BE%8E%E5%9B%BD%F0%9F%87%BA%F0%9F%87%B8%8E%E5%9B%BD%F0%9F%87%BA%F0%9F%87%B8
+hy2://dongtaiwang.com@109.104.152.89:22441/?insecure=1&sni=www.bing.com#%E7%BE%8E%E5%9B%BD%F0%9F%87%BA%F0%9F%87%B8
+hysteria://173.234.25.50:1992/?insecure=1&peer=bing.com&auth=dongtaiwang.com&upmbps=11&downmbps=55&alpn=h3#%E7%BE%8E%E5%9B%BD%F0%9F%87%BA%F0%9F%87%B8
 `
 
 //请将机场订阅链接填入上方
